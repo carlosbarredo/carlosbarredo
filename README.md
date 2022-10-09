@@ -1,6 +1,6 @@
-![Design and Development](https://github.com/carlosbarredo/carlosbarredo/blob/main/banner.jfif)
-
 # Carlos Barredo Lago
+
+https://github.com/carlosbarredo/carlosbarredo/blob/main/banner.jfif
 
 I'm Carlos from Spain, a passionate Quant Researcher/Developer and Engineer, CEO and Co-Founder of [Qinvia](https://www.qinvia.com/), an algorithmic trading solution company.
 
