@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/carlosbarredo/carlosbarredo/banner.jfif)
+![Design and Development](https://github.com/carlosbarredo/carlosbarredo/blob/main/banner.jfif)
 
 # Carlos Barredo Lago
 
