@@ -1,35 +1,63 @@
 # Carlos Barredo Lago
 
-![Banner](https://github.com/carlosbarredo/carlosbarredo/blob/main/banner.jfif)
+**Quant Researcher · Systems Developer · Engineer**
 
-I'm Carlos from Spain, a passionate Quant Researcher/Developer and Engineer, CEO and Co-Founder of [Qinvia](https://www.qinvia.com/), an algorithmic trading solution company.
+I build quantitative research systems, research tooling and AI-assisted software that turn complex ideas into **robust, usable systems**.
 
-You can connect with me on:
-<p align="left">
-<a href="https://linkedin.com/in/carlosbarredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosbarredo" height="30" width="40" /></a>
-<a href="https://twitter.com/cblago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cblago" height="30" width="40" /></a>
-<a href="https://medium.com/@carlosbarredo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@carlosbarredo" height="30" width="40" /></a>
-</p>
+Founder of **[Qinvia](https://www.qinvia.com/)** · Dubai, UAE
 
-## Languages, tools, skills and experience
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>   
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>   
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
+[LinkedIn](https://linkedin.com/in/carlosbarredo) · [X](https://twitter.com/cblago) · [Medium](https://medium.com/@carlosbarredo)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosbarredo&show_icons=true&locale=en&layout=compact" alt="carlosbarredo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosbarredo&show_icons=true&locale=en" alt="carlosbarredo" /></p>
+## What I build
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosbarredo&" alt="carlosbarredo" /></p>
+**Quantitative Research**  
+Systematic strategies, statistical research, backtesting and portfolio/risk analysis.
+
+**Software Systems**  
+Research platforms, APIs, data pipelines, automation and production tooling.
+
+**Applied AI**  
+AI-assisted research, intelligent workflows and human-first interfaces.
+
+---
+
+## Selected work
+
+| Project | Focus |
+|---|---|
+| **[Return Series Auditor](https://github.com/carlosbarredo/return-series-auditor)** | A small Python CLI that exposes data-quality problems and statistical fragility in dated investment returns and equity curves. |
+| **[Pairs Trading](https://github.com/carlosbarredo/pairs-trading)** | Quantitative pairs-trading research combining strategy analysis with clustering techniques to identify potential co-integrated assets. |
+| **[Binance Quant Trading](https://github.com/carlosbarredo/binance-quant-trading)** | Public quantitative trading experiments and notebooks. |
+
+---
+
+## Research & speaking
+
+![Carlos Barredo — quantitative research and speaking](https://github.com/carlosbarredo/carlosbarredo/blob/main/banner.jfif)
+
+My background combines **engineering, quantitative finance and software development**. I have worked on systematic research, presented quantitative work publicly and built software across research and production contexts.
+
+---
+
+## Core tools
+
+**Python · C++ · Rust · SQL · pandas · PyTorch · TensorFlow · AWS**
+
+I care more about choosing the right tool and building the right system than collecting technologies.
+
+---
+
+## How I work
+
+> **Simple → Clear → Robust → Effective**
+
+Reduce unnecessary complexity. Make the system understandable. Make it reliable. Then make it perform.
+
+---
+
+### Qinvia
+
+**Quantitative research + systems development.**  
+[qinvia.com](https://www.qinvia.com/)
