@@ -27,9 +27,9 @@ AI-assisted research, intelligent workflows and human-first interfaces.
 
 | Project | Focus |
 |---|---|
-| **[Return Series Auditor](https://github.com/carlosbarredo/return-series-auditor)** | A small Python CLI that exposes data-quality problems and statistical fragility in dated investment returns and equity curves. |
-| **[Pairs Trading](https://github.com/carlosbarredo/pairs-trading)** | Quantitative pairs-trading research combining strategy analysis with clustering techniques to identify potential co-integrated assets. |
-| **[Binance Quant Trading](https://github.com/carlosbarredo/binance-quant-trading)** | Public quantitative trading experiments and notebooks. |
+| **[Factor-Residual Reversion](https://github.com/carlosbarredo/qinvia-crypto-factor-residual-reversion)** | A cost-aware falsification study of PCA factor-residual mean reversion across 50 liquid OKX perpetual swaps, with reproducible code and openly reported negative results. |
+| **[Relative-Wealth Martin](https://github.com/carlosbarredo/qinvia-relative-wealth-martin)** | A reference implementation and bilingual validation study of compound growth over cash per unit of drawdown in relative wealth. |
+| **[OKX Quant Trading](https://github.com/carlosbarredo/okx-quant-trading)** | A read-only research toolkit for collecting, validating and storing OKX candles, trades, funding, order books and derivatives data through REST and WebSockets. |
 
 ---
 
