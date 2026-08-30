@@ -29,7 +29,7 @@ AI-assisted research, intelligent workflows and human-first interfaces.
 |---|---|
 | **[Factor-Residual Reversion](https://github.com/carlosbarredo/qinvia-crypto-factor-residual-reversion)** | A cost-aware falsification study of PCA factor-residual mean reversion across 50 liquid OKX perpetual swaps, with reproducible code and openly reported negative results. |
 | **[Relative-Wealth Martin](https://github.com/carlosbarredo/qinvia-relative-wealth-martin)** | A reference implementation and bilingual validation study of compound growth over cash per unit of drawdown in relative wealth. |
-| **[OKX Quant Trading](https://github.com/carlosbarredo/okx-quant-trading)** | A read-only research toolkit for collecting, validating and storing OKX candles, trades, funding, order books and derivatives data through REST and WebSockets. |
+| **[Direction–Breadth Factor (DBF)](https://github.com/carlosbarredo/qinvia-direction-breadth-factor)** | An experimental, order-invariant descriptor of signed direction and effective magnitude breadth, with a reference implementation, algebraic tests and bilingual research reports. |
 
 ---
 
