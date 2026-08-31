@@ -37,8 +37,8 @@ Founder of **[Qinvia](https://www.qinvia.com/)** · Dubai, UAE
 
 | Project | What it provides |
 |---|---|
-| **[OKX Quant Toolkit](https://github.com/carlosbarredo/okx-quant-trading)** | Read-only collection of public OKX candles, trades, funding, books, open interest, derivatives data, and bounded WebSocket captures. |
-| **[Binance Quant Toolkit](https://github.com/carlosbarredo/binance-quant-trading)** | Research-first access to public Binance market data, archive planning, provenance, order-book reconstruction, and data-quality checks. |
+| **[OKX Quant Toolkit](https://github.com/carlosbarredo/okx-quant-toolkit)** | Read-only collection of public OKX candles, trades, funding, books, open interest, derivatives data, and bounded WebSocket captures. |
+| **[Binance Quant Toolkit](https://github.com/carlosbarredo/binance-quant-toolkit)** | Research-first access to public Binance market data, archive planning, provenance, order-book reconstruction, and data-quality checks. |
 | **[Qinvia Return Series Auditor](https://github.com/carlosbarredo/qinvia-return-series-auditor)** | Dependency-free CLI that exposes data-quality defects and statistical fragility in dated returns and equity curves. |
 
 ## Research standard
