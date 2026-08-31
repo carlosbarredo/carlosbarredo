@@ -1,10 +1,10 @@
 # Carlos Barredo Lago
 
-**Quantitative Researcher · Research Systems Builder · Engineer**
+**Quantitative Researcher & Engineer · End-to-End Quantitative Systems**
 
-I build reproducible quantitative research and the software systems needed to
-turn ideas into inspectable, usable tools. My work sits at the intersection of
-**markets, statistics, engineering, and applied AI**.
+I research, build, operate, monitor, and evaluate quantitative systems end to
+end. My work sits at the intersection of **markets, statistics, engineering,
+software, and applied AI**.
 
 Founder of **[Qinvia](https://www.qinvia.com/)** · Dubai, UAE
 
